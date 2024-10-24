@@ -1,0 +1,56 @@
+body {
+    background: black;
+    color: white;
+    margin: 8px;
+    font-family: "Chakra Petch", sans-serif;
+    margin-bottom: 100px;
+}
+
+header {
+    border-bottom: solid 5px rgb(111, 111, 111);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(111, 111, 111);
+}
+
+.section-1 {
+    background: rgb(80,65,55);
+    display: flex;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    justify-content: center;
+}
+
+.div-1 {
+    margin-right: 5%;
+}
+
+h1 {
+    font-size: 40;
+}
+
+p {
+    font-size: 20;
+}
+
+.div-4 img {
+    height: 200px;
+    opacity: 0.50;
+}
+
+.div-4 img:hover {
+    opacity: 1;
+    border: 2px solid rgb(80,65,55);
+}
+
+.div-4 {
+    display: flex;
+    overflow-x: auto;
+    gap: 15px;
+    background: rgb(80,65,55);
+    padding: 20px;
+}
+
+.div-3 h2 {
+    color: rgb(111, 111, 111);
+}
