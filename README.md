@@ -2,7 +2,7 @@
 
 # Link do projeto:
 
-https://ZeroFlix
+https://zeroone-11.github.io/ZeroFlix/
 
 Este trabalho está licenciado sob
   
